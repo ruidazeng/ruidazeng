@@ -1,6 +1,6 @@
 ### 👋 Hi!!! I'm Ruida, a freelance software engineer.
 
-- 🔭 I'm currently working on the basic implementations of standard cryptography algorithms like DES, AES, MD5, and SHA-256.
+- 🔭 I'm currently working on the basic implementations of existing standard cryptography algorithms.
 - 🌱 I'm currently learning about digital forensics, cryptography, reverse engineering, and binary exploitation.
 - 🤔 I'm looking for help with ethical hacking and penetration testing.
 - 💬 Ask me about blockchain, crytocurrencies (Ethereum, Litecoin), and non-fungible tokens.
