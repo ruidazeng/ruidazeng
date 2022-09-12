@@ -1,4 +1,4 @@
-### 👋 Hi!!! I'm Ruida, a freelance software engineer.
+### 👋 Hi!!! I'm Ruida
 
 - 🔭 I'm currently working on the basic implementations of existing standard cryptography algorithms.
 - 🌱 I'm currently learning about software hardening, automated test cases generation, reverse engineering, and binary exploitation.
