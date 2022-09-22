@@ -7,4 +7,4 @@
 - 📫 How to reach me: Send me an email, I would love to connect with you!
 
 ---
-![ruidazeng's github stats](https://github-readme-stats.vercel.app/api?username=ruidazeng&count_private=true&show_icons=true)
+![ruidazeng's github stats](https://github-readme-stats.vercel.app/api?username=ruidazeng&count_private=true&include_all_commits=true&show_icons=true)
