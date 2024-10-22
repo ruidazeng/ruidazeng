@@ -9,4 +9,4 @@
 - 📫 How to reach me: Send me an email or reach out to me on social media!
 
 ![Ruida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruidazeng)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruidazeng&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruidazeng&layout=donut&size_weight=0&count_weight=1)
