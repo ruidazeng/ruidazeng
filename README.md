@@ -7,3 +7,6 @@
 - 💬 Ask me about blockchains (Bitcoin, Ethereum, Solana), zero-knowledge proofs, and homomorphic encryption.
 - ⚡ Fun fact: I enjoy gaming as a hobby and love diving into CTFs (Capture The Flags) and game theory for fun!
 - 📫 How to reach me: Send me an email or reach out to me on social media!
+
+[![Ruida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruidazeng)](https://github.com/ruidazeng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruidazeng&layout=donut)](https://github.com/ruidazeng/github-readme-stats)
