@@ -5,7 +5,7 @@
 - 🙌 I'm looking to collaborate on revolutionizing gaming with generative artificial intelligence tools.
 - 🤔 I’m looking for help with implementing and optimizing algorithms for autonomous navigation across complex terrains.
 - 💬 Ask me about applied cryptography, privacy-preserving machine learning, and cybersecurity.
-- ⚡ Fun fact: I enjoy gaming as a hobby and love diving into CTFs (Capture The Flags) for fun!
+- ⚡ Fun fact: I enjoy gaming and diving into CTFs (Capture The Flags)! Checkout my [TryHackMe profile](https://tryhackme.com/r/p/ruidazeng).
 - 📫 How to reach me: Send me an email or reach out to me on social media!
 
 ![Ruida's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruidazeng)
