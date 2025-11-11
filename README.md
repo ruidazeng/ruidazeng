@@ -1,5 +1,7 @@
 ### 👋 Hi, I'm Ruida
 
+- 🎧 **Software Engineer @ Google** — YouTube Music (Podcasts)
+- 🧪 Previously: **AI Engineer / Member of Technical Staff**
 - 🔒 Interests: security, privacy, and safety of AI systems
 - 🎓 Brown University ’24 — Sc.M. in Computer Science  
   Vanderbilt University ’21 — B.S. in Computer Science & Applied Mathematics
